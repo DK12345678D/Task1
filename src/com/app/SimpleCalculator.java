@@ -32,7 +32,7 @@ public class SimpleCalculator {
         boolean keepRunning = true;
 
         while (keepRunning) {
-            // Menu
+           
             System.out.println("\n=== Calculator ===");
             System.out.println("1. Addition");
             System.out.println("2. Subtraction");
